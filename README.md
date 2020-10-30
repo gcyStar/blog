@@ -1,6 +1,5 @@
 ## 文章同步更新发布site
 >* [segmentfault](https://segmentfault.com/blog/gcystar)
->* [github](https://gcystar.github.io/)
 
 ## 内容定位于原创和译文。
 
