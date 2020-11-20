@@ -1,5 +1,9 @@
-## 文章同步更新发布site
->* [segmentfault](https://segmentfault.com/blog/gcystar)
+---
+title: about
+date: 2018-01-12 14:23:00
+---
+## 文章和segmentfault同步更新发布
+https://segmentfault.com/blog/gcystar
 
 ## 内容定位于原创和译文。
 
